@@ -1,0 +1,30 @@
+#img1 {
+    border-style: solid;
+    border-color: aquamarine;
+    margin: 5px;
+    padding: 10px;
+}
+#img2 {
+    border-style: groove;
+    border-color: aqua;
+    margin: 5px;
+    padding: 10px;
+}
+#img3 {
+    border-style: double;
+    border-color: rgb(76, 0, 255);
+    margin: 5px;
+    padding: 10px;
+}
+#img4 {
+    border-style: outset;
+    border-color: rgba(100, 0, 75, 0.616);
+    margin: 5px;
+    padding: 10px;
+}
+#img5 {
+    border-style: inset;
+    border-color: yellowgreen;
+    margin: 5px;
+    padding: 10px;
+}
